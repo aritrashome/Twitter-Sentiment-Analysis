@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 
-Worked on Twitter Hate Speech Data to predict whether a twwet contains Racist or Sexist remarks.<br>
-<b>Machine Learning Methods Used</b>
+Worked on Twitter Hate Speech Data to predict whether a twwet contains Racist or Sexist remarks.<br><br>
+<b>Machine Learning Methods Used</b><br>
 Used n-grams as features; Used TFIDF & Bag of words model to convert Tweet to vector of features.<br>
 Used SMOTE to reduce the data imbalance by creating synthetic Hate tweets.<br>
 Applied Random Forest, Naive Bayes and ANN for prediction.<br><br>
